@@ -18,8 +18,7 @@ const Base = ({
       <footer className="footer bg-dark mt-auto py-3">
         <div className="container-fluid bg-success text-white text-center py-3">
           <span className="text-white">
-            Made with ❤ by{" "}
-            <a href="https://www.instagram.com/avinashsah_/" className="text-white">Avinash</a>
+            Crafted with ❤ by <a href="https://www.instagram.com/avinashsah_/" className="text-white">Avinash</a>
           </span>
         </div>
       </footer>
